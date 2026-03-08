@@ -21,6 +21,10 @@ Este projeto foi criado com o objetivo de desenvolver minha primeira página de 
 
 Praticar conceitos de **desenvolvimento front-end** e criar um espaço online para compartilhar meus projetos e evolução como desenvolvedor.
 
+## 🖼️ Preview do projeto
+
+![Preview do site](preview.png)
+
 ## 🛠️ Tecnologias utilizadas
 
 - HTML
